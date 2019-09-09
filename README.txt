@@ -1,7 +1,3 @@
-Nume: Roman Bogdan-Gabriel
-Grupa: 332CB
-TEMA 2 LINUX
-
 === Organizare si Implementare ===
 Functiile specificate din biblioteca <stdio.h> au fost implementate
 folosind functii POSIX. Generarea multor intreruperi de sistem prin
